@@ -1,0 +1,194 @@
+[
+    {
+        "name": "Mt. Jefferson",
+        "category": "Mountains",
+        "city": "Jefferson",
+        "state": "Oregon",
+        "id": 1001,
+        "isFeatured": true,
+        "isFavorite": true,
+        "park": "Willamette National Forest",
+        "coordinates": {
+            "longitude": -121.793073494,
+            "latitude": 44.6712439817
+        },
+        "description": "The second highest mountain in Oregon, it is a stratovolcano in Cascade Range.",
+        "imageName": "MtJeff"
+    },
+    {
+        "name": "Mt. Hood",
+        "category": "Mountains",
+        "city": "Porland",
+        "state": "Oregon",
+        "id": 1002,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Mt. Hood National Forest",
+        "coordinates": {
+            "longitude": -121.69548,
+            "latitude": 45.37336
+        },
+        "description": "The highest mountain in Oregon, it is a stratovolcano in Cascade Range.",
+        "imageName": "MtHood"
+    },
+    {
+        "name": "The Flatirons",
+        "category": "Mountains",
+        "city": "Boulder",
+        "state": "Colorado",
+        "id": 1003,
+        "isFeatured": true,
+        "isFavorite": true,
+        "park": "Chautauqua",
+        "coordinates": {
+            "longitude": -105.289332176,
+            "latitude": 39.986329388
+        },
+        "description": "The Flatirons are the striking, slanted, reddish-brown sandstone formations that make up a portion of Boulder's foothills on the west side of town.",
+        "imageName": "flatirons"
+    },
+    {
+        "name": "Salt Creek Falls",
+        "category": "Waterfalls",
+        "city": "Oakridge",
+        "state": "Oregon",
+        "id": 1004,
+        "isFeatured": false,
+        "isFavorite": true,
+        "park": "Willamette National Forest",
+        "coordinates": {
+            "longitude": -122.12861,
+            "latitude": 43.61179
+        },
+        "description": "Salt Creek Falls is a cascade and plunge waterfall on Salt Creek, a tributary of the Middle Fork Willamette River, that plunges into a gaping canyon in the Willamette National Forest near Willamette Pass in Lane County, Oregon.",
+        "imageName": "saltcreekfalls"
+    },
+    {
+        "name": "Silver Falls",
+        "category": "Waterfalls",
+        "city": "Silverton",
+        "state": "Oregon",
+        "id": 1005,
+        "isFeatured": true,
+        "isFavorite": false,
+        "park": "Silver Falls State Park",
+        "coordinates": {
+            "longitude": -122.65549,
+            "latitude": 44.878113
+        },
+        "description": "Silver Falls State Park is home to the majestic Silver Falls, Oregon's largest state park known for its stunning waterfalls. The park's Trail of Ten Falls allows visitors to explore a series of breathtaking cascades, including the famous South Falls, where one can walk behind the water's veil. The park's lush, temperate rainforest setting offers a serene backdrop, making it a perfect destination for hikers, nature enthusiasts, and photographers alike.",
+        "imageName": "silverfalls"
+    },
+    {
+        "name": "Aspen Glades",
+        "category": "Forests",
+        "city": "Aspen",
+        "state": "Colorado",
+        "id": 1006,
+        "isFeatured": false,
+        "isFavorite": true,
+        "park": "White River National Forest",
+        "coordinates": {
+            "longitude": -106.817538,
+            "latitude": 39.191098
+        },
+        "description": "Aspen Glades offers a unique experience within the White River National Forest, showcasing vast expanses of aspen trees that shimmer gold in the fall. This area provides a quiet escape for those looking to immerse themselves in nature's beauty. The glades are popular for hiking, mountain biking, and in the winter, cross-country skiing. Wildlife sightings are common, offering glimpses of deer, elk, and an array of bird species amidst the stunning aspen groves.",
+        "imageName": "aspenglades"
+    },
+    {
+        "name": "Rogue River Gorge",
+        "category": "Rivers",
+        "city": "Medford",
+        "state": "Oregon",
+        "id": 1007,
+        "isFeatured": true,
+        "isFavorite": false,
+        "park": "Rogue River National Forest",
+        "coordinates": {
+            "longitude": -122.433897,
+            "latitude": 42.439067
+        },
+        "description": "The Rogue River Gorge in Rogue River National Forest offers visitors a dramatic view of Oregon's natural beauty. The gorge features a series of powerful rapids and waterfalls carved through volcanic rock, creating a breathtaking landscape. The area is accessible via a well-maintained trail that offers several viewing platforms. It's a popular spot for photography, bird watching, and simply enjoying the powerful forces of nature at work.",
+        "imageName": "roguerivergorge"
+    },
+    {
+        "name": "Great Sand Dunes",
+        "category": "Desert",
+        "city": "Alamosa County",
+        "state": "Colorado",
+        "id": 1008,
+        "isFeatured": true,
+        "isFavorite": false,
+        "park": "Great Sand Dunes National Park",
+        "coordinates": {
+            "longitude": -105.5121,
+            "latitude": 37.7329
+        },
+        "description": "Great Sand Dunes National Park and Preserve is in southern Colorado. It’s known for huge dunes like the towering Star Dune, and for the seasonal Medano Creek and beach created at the base of the dunes. The backcountry Medano Pass Primitive Road winds through a canyon toward the Sangre de Cristo mountains. Trails lead to forests, wetlands and alpine lakes like Medano Lake, which is home to trout and tundra wildlife.",
+        "imageName": "greatsanddunes"
+    },
+    {
+        "name": "Autzen Stadium",
+        "category": "Stadium",
+        "city": "Eugene",
+        "state": "Oregon",
+        "id": 1009,
+        "isFeatured": true,
+        "isFavorite": false,
+        "park": "Alton Baker Park",
+        "coordinates": {
+            "longitude": -123.0685,
+            "latitude": 44.0583
+        },
+        "description": "Autzen Stadium is an outdoor football stadium in the northwest United States, in Eugene, Oregon. Located north of the University of Oregon campus, it is the home field of the Oregon Ducks of the Pac-12 Conference. Opened 57 years ago in 1967, the stadium has undergone several expansions..",
+        "imageName": "autzen"
+    },
+    {
+        "name": "Vaught Hemingway Stadium",
+        "category": "Stadium",
+        "city": "Oxford",
+        "state": "Mississippi",
+        "id": 1010,
+        "isFeatured": true,
+        "isFavorite": false,
+        "park": "University of Mississippi",
+        "coordinates": {
+            "longitude": -89.5342,
+            "latitude": 34.3619
+        },
+        "description": "Vaught–Hemingway Stadium at Hollingsworth Field is an outdoor athletic stadium located in University, Mississippi, United States. The stadium serves as the home for the University of Mississippi Rebels college football team. The stadium is named after Johnny Vaught and Judge William Hemingway.",
+        "imageName": "vaughthemingway"
+    },
+    {
+        "name": "Folsom Field",
+        "category": "Stadium",
+        "city": "Boulder",
+        "state": "Colorado",
+        "id": 1011,
+        "isFeatured": true,
+        "isFavorite": false,
+        "park": "University of Colorado",
+        "coordinates": {
+            "longitude": -105.266832266,
+            "latitude": 40.005666644
+        },
+        "description": "Folsom Field is an outdoor college football stadium in the western United States, located on the campus of the University of Colorado in Boulder. It is the home field of the Colorado Buffaloes of the Pac-12 Conference.",
+        "imageName": "folsomfield"
+    },
+    {
+        "name": "Ball Arena",
+        "category": "Stadium",
+        "city": "Denver",
+        "state": "Colorado",
+        "id": 1012,
+        "isFeatured": true,
+        "isFavorite": false,
+        "park": "Denver",
+        "coordinates": {
+            "longitude": -105.008400,
+            "latitude": 39.748920
+        },
+        "description": "Ball Arena is a multi-purpose indoor arena located in Denver, Colorado. It is situated at Speer Boulevard, a main thoroughfare in downtown Denver, and is served by two nearby exits off Interstate 25. A light rail station is on the western side of the complex.",
+        "imageName": "ballarena"
+    }
+]
